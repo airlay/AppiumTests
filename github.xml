@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="20ac3d2b-09bb-4e33-9764-6455b99ffa86" name="airlay">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
